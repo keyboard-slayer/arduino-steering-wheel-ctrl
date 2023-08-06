@@ -3,7 +3,7 @@
 ## Introduction
 This project is a simple steering wheel button signal converter to actual input for a Pioneer radio.
 
-*NOTE*: This project was made Wand tested on a Suzuki Swift 2007
+*NOTE*: This project was made and tested on a Suzuki Swift 2007
 
 ## Hardware
 * [Arduino Nano](https://fr.aliexpress.com/item/4000579100527.html?spm=a2g0o.order_list.order_list_main.23.18b25e5buiGea3&gatewayAdapt=glo2fra)
