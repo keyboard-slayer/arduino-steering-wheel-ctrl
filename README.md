@@ -24,6 +24,11 @@ This project is a simple steering wheel button signal converter to actual input 
 ## Schema
 One day hopefully
 
+## Picture
+![Pic1](./docs/pic1.jpg)
+![Pic2](./docs/pic2.jpg)
+![Pic3](./docs/pic3.jpg)
+
 ## License
 
 <a href="https://www.gnu.org/licenses/gpl-3.0.en.html"><img align="right" src="https://www.gnu.org/graphics/gplv3-with-text-136x68.png" alt="GPLv3 Logo" width="120" height="60"/></a>
