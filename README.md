@@ -24,7 +24,7 @@ This project is a simple steering wheel button signal converter to actual input 
 ## Schema
 One day hopefully
 
-## Picture
+## Pictures
 ![Pic1](./docs/pic1.jpg)
 ![Pic2](./docs/pic2.jpg)
 ![Pic3](./docs/pic3.jpg)
